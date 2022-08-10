@@ -1,0 +1,13 @@
+{
+  "name": "Json-ld Resume",
+  "description": "A one-of-a-kind resume builder that's not out to get your data. Completely secure, customizable, portable, open-source and free forever.",
+  "website": "https://jsonldresume.org/",
+  "repository": "https://github.com/jsonldresume",
+  "logo": "https://raw.githubusercontent.com/Jsonldresume/lab-web/main/public/images/jsonldresume.png",
+  "buildpacks": [
+    {
+      "url": "mars/create-react-app"
+    }
+  ],
+  "keywords": ["react", "resume", "static", "jsonld"]
+}
